@@ -58,20 +58,20 @@ while running:
 
     # Calculate the TOTAL thrust of the rocket in [N]
     T = nr_engines*thrust_per_engine
-    
+
     # Calculate the CURRENT weight of the rocket in [N]
     W = -mass_current*g
-    
+
     # Calculate the CURRENT aerodynamic drag of the rocket in [N]
     # HINT: 'to the power of' in Python is given by **
     D = -0.5*rho*velocity_previous**2*(diameter_rocket/2)**2*pi*coeff_drag
 
     # Calculate the vertical acceleration of the rocket using Newtons's Second Law in [m/s^2]
     ay = (T+W+D)/mass_current
-    
+
     # Calculate the vertical velocity of the rocket numerically in [m/s]
     vy = ay*dt + velocity_previous
-    
+
     # Calculate the vertical position of the rocket numerically in [m]
     y = vy*dt + position_previous
 
