@@ -7,7 +7,7 @@ This is the main file you will be using. You won't need any other files.
 
 Good luck! If any, feel free to ask questions.
 
-Code developped by: B.C.D.deBosscher@tudelft.nl
+Code developped by: Team Voorlichting (Study-AE@tudelft.nl)
 Version: 0.2
 '''
 

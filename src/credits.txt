@@ -3,6 +3,3 @@ Rocket image:
 
 Background:
 - By Moosey of www.videoblocks.com (assessed on the 29th of July 2019)
-
-https://space.stackexchange.com/questions/16883/whats-the-atmospheric-drag-coefficient-of-a-falcon-9-at-launch-sub-sonic-larg
-https://space.stackexchange.com/questions/30497/does-anyone-know-how-to-calculate-the-kg-per-second-of-rp-1-and-lox-from-the-9-m?rq=1
